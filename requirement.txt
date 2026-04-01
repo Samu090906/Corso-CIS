@@ -1,0 +1,5 @@
+cffi==2.0.0
+cryptography==46.0.5
+pycparser==3.0
+python3-nmap==1.9.1
+simplejson==3.20.2
