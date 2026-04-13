@@ -41,7 +41,7 @@ Salva il codice in un file (es. scanner.py) e avvialo:
 Bash
 
 python scanner.py
-Nota: Su alcuni sistemi, per ottenere risultati più precisi o per scansioni che richiedono privilegi (come gli曉 SYN scan), potrebbe essere necessario eseguire lo script come amministratore/root (sudo).
+Nota: Su alcuni sistemi, per ottenere risultati più precisi o per scansioni che richiedono privilegi (come gli SYN scan), potrebbe essere necessario eseguire lo script come amministratore/root (sudo).
 
 🔍 Cosa può fare questo script
 
