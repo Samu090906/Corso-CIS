@@ -33,7 +33,7 @@ Lo script è un'interfaccia; ha bisogno che il software Nmap sia installato sul 
 
 3. Installare la libreria Python
 Devi installare il wrapper Python per Nmap tramite terminale:
-Bash
+Bash/cmd
 pip install python-nmap
 
 4. Esecuzione
